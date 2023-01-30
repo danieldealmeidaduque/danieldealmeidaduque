@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI, Tableau and AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [working...](working...)
+- 👨‍💻 Im working to build a portfolio
 
 - 📫 How to reach me **daniel.dik@hotmail.com**
 
