@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Duque</h1>
 <h3 align="center">A Data Analyst aspirant working with Hemophilia</h3>
 
-- 🌱 I’m currently learning JavaScript and React Native
+- 🌱 I’m currently learning JavaScript, TypeScript and React Native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
