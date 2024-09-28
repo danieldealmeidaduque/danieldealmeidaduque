@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Duque</h1>
 
-- 🌱 I’m currently learning JavaScript, TypeScript, React Native, and Angular
+- 🌱 Specializing in Front-end using Angular, with 4 years of experience in software development and data science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
