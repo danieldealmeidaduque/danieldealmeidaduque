@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Duque</h1>
 
-- 🌱 Specializing in Front-end Development using Angular, with 4 years of experience in software development and a strong foundation in Data Science.
+- 🌱 Specializing in Front-end Development using Angular, with 4 years of experience in software development and a strong foundation in Data Analysis.
 
 ---
 
